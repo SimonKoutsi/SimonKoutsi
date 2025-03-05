@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A physicist who loves programming</h3>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **PowerBI**
 
 - 📫 How to reach me **simoskuci@hotmail.com**
 
